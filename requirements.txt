@@ -1,0 +1,14 @@
+os
+tqdm
+sys
+optparse
+xml
+lxml
+bs4
+nltk
+pandas
+numpy
+matplotlib
+re
+collections
+itertools
